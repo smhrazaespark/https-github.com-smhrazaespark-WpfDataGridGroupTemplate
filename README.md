@@ -1,1 +1,1 @@
-# https-github.com-smhrazaespark-WpfDataGridGroupTemplate
+ ![](img/1.gif)
